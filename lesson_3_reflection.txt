@@ -14,3 +14,6 @@ You are up to date with the remote repo, and can work offline from there.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It will be will a private server and It would be harder.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would make changes in a separate branch when working on some experimental stuff for example, and to be sure to not interfere with the other people working on the project, so when the change in done and ready issue a pull request, so everybody is informed about it.
