@@ -3,3 +3,9 @@ Git creates .git folder with the initial metadata for the repo. It is needed to 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is destinated only to changes to be committed, the working directory contains all the files/changes but they are not necessarily meant to be committed.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Trying experimental stuff, add important changes to the core of the program, creating something new.
+
+How do the diagrams help you visualize the branch structure?
+It shows the exact location when a branch is created, it helps to visualize the common commits and so on.
