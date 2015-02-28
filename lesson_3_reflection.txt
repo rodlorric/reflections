@@ -11,3 +11,6 @@ branches = alternative versions of a project within the project.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You are up to date with the remote repo, and can work offline from there.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It will be will a private server and It would be harder.
