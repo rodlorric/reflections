@@ -9,3 +9,7 @@ Trying experimental stuff, add important changes to the core of the program, cre
 
 How do the diagrams help you visualize the branch structure?
 It shows the exact location when a branch is created, it helps to visualize the common commits and so on.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro saves time
+Cons can lead to some errors in the code
